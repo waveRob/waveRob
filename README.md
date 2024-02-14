@@ -1,4 +1,8 @@
-### Hi there 👋
+### Working at Sensrad
+I am a junior software engineer in Sensrads perception team.
+I am excited to tackle new tasks and to enable new perspectives.
+
+
 
 <!--
 **waveRob/waveRob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
