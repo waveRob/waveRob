@@ -1,6 +1,6 @@
-### Working at Sensrad
-I am a junior software engineer in Sensrads perception team.
-I am excited to tackle new tasks to enable new perspectives.
+### Lifelong Learning
+I enjoy working on projects which inspire me and others.
+
 
 
 
